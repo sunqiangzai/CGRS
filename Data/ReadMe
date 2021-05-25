@@ -1,0 +1,3 @@
+This folder contains the clinical and expression data of TCGA, Singapore, ACRG, and Zhejiang Cohort.
+*_exprs.txt indicates Gene expression data.
+*_clinical.txt indicates clinical information.
