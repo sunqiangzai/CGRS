@@ -1,11 +1,6 @@
 # CGRS
 We established a new prognostic signature, clinic and genetic risk score (CGRS), by integrating gene expression profiles with clinical characteristics. CGRS has been confirmed in four different cohorts for accurately predicting GC prognosis, and significantly stratified stage III GC patients into high and low risk groups with different survival time. Furthermore, an easy-to-use nomogram and web application based on CGRS were developed to facilitate its application in clinical practice.
 
-# Data
-In this folder, the gene expression file of GC patients from ACRG, TCGA, Korea, Singapore, and Zhejiang cohorts were provided.
-
-# ClinicalData
-In this folder, the clinical information of GC patients from ACRG, TCGA, Korea, Singapore, and Zhejiang cohorts were provided.
 
 # Script
 In this folder, the scripts used to array data processing, perform permutations, identify prognostic genes, and build prognositic models were provided.
